@@ -14,8 +14,8 @@ main:
   - title: "Awards"
     url: /awards/
 
-  - title: "Projects"
-    url: /projects/
+  - title: "Patents"
+    url: /patents/
 
   - title: "Teaching"
     url: /teaching/    
@@ -25,5 +25,5 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
