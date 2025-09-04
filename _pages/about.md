@@ -13,15 +13,15 @@ Education
 ======
   * 2019.09 - 2025.12
     * Ph.D. candidate in Information and Communication Engineering
-    * [information and communication engineering with the School of Electronics and Information Engineering, Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/index.html), China
+    * [Information and communication engineering with the School of Electronics and Information Engineering, Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/index.html), China
     * Supervisor: Prof. [Tingting Zhang](https://faculty.hitsz.edu.cn/zhangtingting)
   * 2016.09 - 2019.06
     * M.S. in Electronic and Communication Engineering
     * [Institute of  Acoustics, Chinese  Academy of Science](http://www.ioa.ac.cn/), China
-    * Supervisor: prof. [Junying An](https://people.ucas.ac.cn/~0036105)
+    * Supervisor: Prof. [Junying An](https://people.ucas.ac.cn/~0036105)
   * 2012.09 - 2016.06
     * B.S. in Communication Engineering **(with honors)**
-    * [pSchool of Information Science and Engineering, Shandong Normal University](http://www.ischool.sdnu.edu.cn/index.htm), China
+    * [School of Information Science and Engineering, Shandong Normal University](http://www.ischool.sdnu.edu.cn/index.htm), China
 
 Awards
 =====
@@ -60,3 +60,10 @@ Patents
 3. T. Zhang and **F. Liu**, "A Dynamic Target Tracking Method Based on Bistatic Range-Doppler Parameter Estimation," CN Patent 118200861A. (Under substantive examination)
 4. K. Wu, **F. Liu**, Z. Zhang, and T. Zhang, "Information Transmission Method and Communication Apparatus," CN Patent 118265150A. (Under substantive examination, **joint application with Huawei**)
 5. B. Wei, Y. Bao, J. Li, T. Zhang, and **F. Liu**, "An Integrated Ultra-Wideband Communication and Positioning Method Compatible with IEEE 802.15.4z Standard," CN Patent 118301738A. (Under substantive examination, **joint application with CETC54**)
+
+Teaching
+=====
+* **Outstanding Teaching Assistant**, Harbin Institute of Technology (Shenzhen), 2023. Served as a Teaching Assistant (TA) for the core communication engineering course "Mobile Communications" for **​five consecutive years** (2020-2024). Responsibilities included participating in **​course experiment design​** and providing ​student guidance​</b>. Became highly proficient in **all ​teaching procedures​**​.
+## [Mobile Communication](https://fancy0613.github.io/fanliu.github.io/teaching/2020-teaching-1)**
+Undergraduate course, Harbin Institute of Technology Shenzhen, Department of Electronic Engineering, 2020-2024.
+**Teaching Assistant with Prof. [Tingting Zhang](https://faculty.hitsz.edu.cn/zhangtingting)**
