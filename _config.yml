@@ -22,12 +22,12 @@ repository               : "Fancy0613/fanliu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://github.com/Fancy0613/fanliu.github.io/blob/master/images/FanLiu.jpg"
+  avatar           : "FanLiu.jpg"
   name             : "Fan Liu"
   pronouns         : # example: "she/her"  
   bio              : "PhD student at HITSZ"
   location         : "Shen Zhen, China"
-  employer         : "Harbin Institute of Technology(Shenzhen)"
+  employer         : "HITSZ"
   uri              : # URL
   email            : "liufan0613@163.com" 
 
@@ -37,7 +37,7 @@ author:
   googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&view_op=list_works&gmla=AH8HC4wcyz5BIfMd3jiTqur2Ixt32RFb5Z5ZMueUvD0FTcX9TYLr1HRkd_l8k9_epYEvUvk61tRhnXsnqC66ECufwsQ&user=3DjloggAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # URL
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
