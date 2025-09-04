@@ -8,8 +8,8 @@ date: 2020-09-01
 location: "Shenzhen, China"
 ---
 
-Undaergraduate Cource, Harbin Institute of Technology Shenzhen, Department of Electronic Engineering, 2020
-## Teaching Assistant with Prof. [Tingting Zhang]((https://faculty.hitsz.edu.cn/zhangtingting))
+**Teaching Assistant with Prof. [Tingting Zhang]((https://faculty.hitsz.edu.cn/zhangtingting))**
+
 
 
 

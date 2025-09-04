@@ -12,26 +12,89 @@ author_profile: true
 {% include base_path %}
 
 <!-- New style rendering if publication categories are defined -->
- 
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<body>
+    <h1>Publication List</h1>
+
+    <h2>First-author Papers</h2>
+    <ul>
+        <li>
+            <span class="bold">F. Liu</span>, T. Zhang, Z. Zhang, Y. Shen and Q. Zhang, 
+            "ISAC With UWB: Reliable Decoupling and Target Sensing," in 
+            <span class="journal">IEEE Transactions on Wireless Communications</span>, 
+            vol. 23, no. 11, pp. 15957-15972, Nov. 2024.
+        </li>
+        <li>
+            <span class="bold">F. Liu</span>, T. Zhang, Z. Zhang, B. Cao, Y. Shen and Q. Zhang, 
+            "Fundamental Limits of Pulse Based UWB ISAC Systems: A Parameter Estimation Perspective," in 
+            <span class="journal">IEEE Internet of Things Journal</span>, early access.
+        </li>
+        <li>
+            <span class="bold">F. Liu</span>, T. Zhang, 
+            "Confidence Based Asynchronous Integrated Communication and Localization Networks Using IR UWB Signals," in 
+            <span class="journal">IEEE Transactions on Communications</span>.
+        </li>
+        <li>
+            <span class="bold">F. Liu</span>, Z. Zhang, T. Zhang and Y. Shen, 
+            "Simultaneous Demodulation and Channel Sensing Using IR-UWB Signals," 
+            <span class="journal">IEEE GLOBECOM 2023</span>, Kuala Lumpur, Malaysia, 2023, pp. 3124-3129.
+        </li>
+        <li>
+            <span class="bold">F. Liu</span>, T. Zhang and P. Cao, 
+            "Asynchronous Integration of Communication and Localization Systems Using IR-UWB Signals," 
+            <span class="journal">IEEE MILCOM 2021</span>, San Diego, CA, USA, 2021, pp. 521-527, 
+            <span class="bold">invited paper</span>.
+        </li>
+        <li>
+            <span class="bold">F. Liu</span>, J. Zhang, J. An, 
+            "Simulation analysis on Scattering from a Rigid Sphere in a deep Water Wave-Guide", in 
+            <span class="journal">Technical Acoustics</span>, Vol.37, no. 5, pp. 88-92, 2018.
+        </li>
+        <li>
+            <span class="bold">F. Liu</span>, J. An, J. Zhang, G. Cheng, 
+            "Modeling and simulation of bistatic acoustic scattering of targets in deep sea," in 
+            <span class="journal">Technical Acoustics</span>, Vol. 37, no. 6, pp. 135-136, Dec. 2018.
+        </li>
+    </ul>
+
+    <h2>Collaborative Papers</h2>
+    <ul>
+        <li>
+            X. Wang, <span class="bold">F. Liu</span>, Z. Zhang, J. Zhang and T. Zhang, 
+            "Tradeoffs Between Channel Sensing and Symbol Characterization in ISAC: An IR-UWB Case," 
+            <span class="journal">IEEEE ICC 2024</span>, Denver, CO, USA, 2024, pp. 2907-2912.
+        </li>
+        <li>
+            Z. Zhang, <span class="bold">F. Liu</span> and T. Zhang, 
+            "Fundamental Limits on Integrated Sensing and Communications Frameworks: An IR UWB Case," 
+            <span class="journal">IEEE ICC 2023</span>, Rome, Italy, 2023.
+        </li>
+        <li>
+            Y. Zhang, <span class="bold">F. Liu</span> and T. Zhang, 
+            "Decoupling Strategies for Asynchronous Integrated Communication and Localization Networks," 
+            <span class="journal">IEEE VTC2023-Fall</span>, Hong Kong, China, 2023, pp. 1-6.
+        </li>
+        <li>
+            X. Wang, <span class="bold">F. Liu</span>, Z. Zhang and T. Zhang, 
+            "Fundamental Limits on Joint Delay and Doppler Characterization in UWB ISAC Systems," 
+            <span class="journal">IEEE VTC2023-Fall</span>, Hong Kong, China, 2023, pp. 1-6.
+        </li>
+        <li>
+            C. Yang, <span class="bold">F. Liu</span> and T. Zhang, 
+            "MSE Based Resource Optimization in Wireless Localization Networks," 
+            <span class="journal">IEEE VTC2021-Spring</span>, Helsinki, Finland, 2021, pp. 1-6.
+        </li>
+        <li>
+            J. Chen, X. Wang, <span class="bold">F. Liu</span>, Z. Zhang, J. Xue and T. Zhang, 
+            "Differential Decoupling Strategies for UWB Integrated Sensing and Communication Systems," 
+            <span class="journal">IEEE VTC2023-Fall</span>, Hong Kong, China, 2023, pp. 1-6.
+        </li>
+        <li>
+            Wang, T. Zhang and <span class="bold">F. Liu</span>, 
+            "Open-Loop Communications for Centralized CAV Control Systems Using PPC," 
+            <span class="journal">IEEE WCNC 2025</span>, Milan, Italy, 2025, pp. 1-6.
+        </li>
+    </ul>
+</body>
 
 
 
