@@ -22,7 +22,7 @@ repository               : "Fancy0613/fanliu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "fanliu.github.io/images/FanLiu.png"
+  avatar           : "https://github.com/Fancy0613/fanliu.github.io/blob/master/images/FanLiu.jpg"
   name             : "Fan Liu"
   pronouns         : # example: "she/her"  
   bio              : "PhD student at HITSZ"
