@@ -14,11 +14,11 @@ Education
   * 2019.09 - 2025.12
     * Ph.D. candidate in Information and Communication Engineering
     * [information and communication engineering with the School of Electronics and Information Engineering, Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/index.html), China
-    * Supervisor: Prof.[Tingting Zhang](https://faculty.hitsz.edu.cn/zhangtingting)
+    * Supervisor: Prof. [Tingting Zhang](https://faculty.hitsz.edu.cn/zhangtingting)
   * 2016.09 - 2019.06
     * M.S. in Electronic and Communication Engineering
     * [Institute of  Acoustics, Chinese  Academy of Science](http://www.ioa.ac.cn/), China
-    * Supervisor: prof.[Junying An](https://people.ucas.ac.cn/~0036105)
+    * Supervisor: prof. [Junying An](https://people.ucas.ac.cn/~0036105)
   * 2012.09 - 2016.06
     * B.S. in Communication Engineering **(with honors)**
     * [pSchool of Information Science and Engineering, Shandong Normal University](http://www.ischool.sdnu.edu.cn/index.htm), China
@@ -58,7 +58,6 @@ Patents
 ======
 1. T. Zhang and **F. Liu**, "Ultra-Wideband Signal Time of Arrival Estimation Method Based on Soft Information Sequence Detection," CN Patent 202111507909A, Sep. 4, 2025.​
 2. T. Zhang, C. Yang, and **F. Liu**, "A Wireless Positioning Network Resource Optimization Method," CN Patent ZL202110271000.5, May 10, 2022.
-3. T. Zhang and F. Liu, "A Dynamic Target Tracking Method Based on Bistatic Range-Doppler Parameter Estimation," CN Patent 118200861A. (Under substantive examination)
+3. T. Zhang and **F. Liu**, "A Dynamic Target Tracking Method Based on Bistatic Range-Doppler Parameter Estimation," CN Patent 118200861A. (Under substantive examination)
 4. K. Wu, **F. Liu**, Z. Zhang, and T. Zhang, "Information Transmission Method and Communication Apparatus," CN Patent 118265150A. (Under substantive examination, **joint application with Huawei**)
 5. B. Wei, Y. Bao, J. Li, T. Zhang, and **F. Liu**, "An Integrated Ultra-Wideband Communication and Positioning Method Compatible with IEEE 802.15.4z Standard," CN Patent 118301738A. (Under substantive examination, **joint application with CETC54**)
-6.
