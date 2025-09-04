@@ -32,27 +32,26 @@ Awards
 5. **First Prize**, Shandong Sector, National Undergraduate Mathematical Contest in Modeling, 2015.
 6. ​National Encouragement Scholarship, 2015. (**Rate Top 4%.**)
 
-
-First-author Papers
+Journal Papers
 =====
 1. **F. Liu**, T. Zhang, Z. Zhang, Y. Shen and Q. Zhang, "ISAC With UWB: Reliable Decoupling and Target Sensing," in **IEEE Transactions on Wireless Communications**, vol. 23, no. 11, pp. 15957-15972, Nov. 2024.
 2. **F. Liu**, T. Zhang, Z. Zhang, B. Cao, Y. Shen and Q. Zhang, "Fundamental Limits of Pulse Based UWB ISAC Systems: A Parameter Estimation Perspective," in **IEEE Internet of Things Journal**, early access.
-3. **F. Liu**, T. Zhang, "Confidence Based Asynchronous Integrated Communication and Localization Networks Using IR UWB Signals," in **IEEE Transactions on Communications**.
-4. **F. Liu**, Z. Zhang, T. Zhang and Y. Shen, "Simultaneous Demodulation and Channel Sensing Using IR-UWB Signals," **IEEE GLOBECOM 2023**, Kuala Lumpur, Malaysia, 2023, pp. 3124-3129.
-5. **F. Liu**, T. Zhang and P. Cao, "Asynchronous Integration of Communication and Localization Systems Using IR-UWB Signals," **IEEE MILCOM 2021**, San Diego, CA, USA, 2021, pp. 521-527, **invited paper**. 
-6. **F. Liu**,J. Zhang, J. An, "Simulation analysis on Scattering from a Rigid Sphere in a deep Water Wave-Guide", in **Technical Acoustics**, Vol.37, no. 5, pp. 88-92, 2018.
-7. **F. Liu**, J. An, J. Zhang, G. Cheng, "Modeling and simulation of bistatic acoustic scattering of targets in deep sea," in **Technical Acoustics**, Vol. 37, no. 6, pp. 135-136, Dec. 2018.
+3. **F. Liu**, T. Zhang, "Confidence Based Asynchronous Integrated Communication and Localization Networks Using IR UWB Signals," in **IEEE Transactions on Communications**, major.
+4. **F. Liu**,J. Zhang, J. An, "Simulation analysis on Scattering from a Rigid Sphere in a deep Water Wave-Guide", in **Technical Acoustics**, Vol.37, no. 5, pp. 88-92, 2018.
+5. **F. Liu**, J. An, J. Zhang, G. Cheng, "Modeling and simulation of bistatic acoustic scattering of targets in deep sea," in **Technical Acoustics**, Vol. 37, no. 6, pp. 135-136, Dec. 2018.
 
-Collaborative Papers
+Conference Papers
 =====
-1. X. Wang, **F. Liu**, Z. Zhang, J. Zhang and T. Zhang, "Tradeoffs Between Channel Sensing and Symbol Characterization in ISAC: An IR-UWB Case," **IEEEE ICC 2024**, Denver, CO, USA, 2024, pp.
-2907-2912.
-2. Z. Zhang, **F. Liu** and T. Zhang, "Fundamental Limits on Integrated Sensing and Communications Frameworks: An IR UWB Case," **IEEE ICC 2023**, Rome, Italy, 2023.
-3. Y. Zhang, **F. Liu** and T. Zhang, "Decoupling Strategies for Asynchronous Integrated Communication and Localization Networks," **IEEE VTC2023-Fall**, Hong Kong, China, 2023, pp. 1-6.
-4. X. Wang, **F. Liu**, Z. Zhang and T. Zhang, "Fundamental Limits on Joint Delay and Doppler Characterization in UWB ISAC Systems," **IEEE VTC2023-Fall**, Hong Kong, China, 2023, pp. 1-6.
-5. C. Yang, **F. Liu** and T. Zhang, "MSE Based Resource Optimization in Wireless Localization Networks," **IEEE VTC2021-Spring**, Helsinki, Finland, 2021, pp. 1-6.
-6. J. Chen, X. Wang, **F. Liu**, Z. Zhang, J. Xue and T. Zhang, "Differential Decoupling Strategies for UWB Integrated Sensing and Communication Systems," **IEEE VTC2023-Fall**, Hong Kong, China, 2023, pp. 1-6.
-7. Wang, T. Zhang and **F. Liu**, "Open-Loop Communications for Centralized CAV Control Systems Using PPC," **IEEE WCNC 2025**, Milan, Italy, 2025, pp. 1-6.
+1. **F. Liu**, Z. Zhang, T. Zhang and Y. Shen, "Simultaneous Demodulation and Channel Sensing Using IR-UWB Signals," **IEEE GLOBECOM 2023**, Kuala Lumpur, Malaysia, 2023, pp. 3124-3129.
+2. **F. Liu**, T. Zhang and P. Cao, "Asynchronous Integration of Communication and Localization Systems Using IR-UWB Signals," **IEEE MILCOM 2021**, San Diego, CA, USA, 2021, pp. 521-527, **invited paper**.
+3. Wang, T. Zhang and **F. Liu**, "Open-Loop Communications for Centralized CAV Control Systems Using PPC," **IEEE WCNC 2025**, Milan, Italy, 2025, pp. 1-6. 
+4. X. Wang, **F. Liu**, Z. Zhang, J. Zhang and T. Zhang, "Tradeoffs Between Channel Sensing and Symbol Characterization in ISAC: An IR-UWB Case," **IEEEE ICC 2024**, Denver, CO, USA, 2024, pp. 2907-2912.
+5. Z. Zhang, **F. Liu** and T. Zhang, "Fundamental Limits on Integrated Sensing and Communications Frameworks: An IR UWB Case," **IEEE ICC 2023**, Rome, Italy, 2023.
+6. Y. Zhang, **F. Liu** and T. Zhang, "Decoupling Strategies for Asynchronous Integrated Communication and Localization Networks," **IEEE VTC2023-Fall**, Hong Kong, China, 2023, pp. 1-6.
+7. X. Wang, **F. Liu**, Z. Zhang and T. Zhang, "Fundamental Limits on Joint Delay and Doppler Characterization in UWB ISAC Systems," **IEEE VTC2023-Fall**, Hong Kong, China, 2023, pp. 1-6.
+8. J. Chen, X. Wang, **F. Liu**, Z. Zhang, J. Xue and T. Zhang, "Differential Decoupling Strategies for UWB Integrated Sensing and Communication Systems," **IEEE VTC2023-Fall**, Hong Kong, China, 2023, pp. 1-6.
+9. C. Yang, **F. Liu** and T. Zhang, "MSE Based Resource Optimization in Wireless Localization Networks," **IEEE VTC2021-Spring**, Helsinki, Finland, 2021, pp. 1-6.
+
 
 Patents
 ======
