@@ -65,4 +65,4 @@ This repository was forked (then detached) by [Stuart Geiger](https://github.com
 导航栏：navigation.yml：注意网址要与_pages页面下一一对应
 teaching :直接在_teachings下模仿增加新的md文档即可
 publications：若想要直接在_publications下增加新的文档，请用demo文件夹下的publications.html替换_pages下的publications.html，否则只需要修改_pages/publications.html即可
-若想要编辑md文档的内容，常见的加粗、列表、标题等语法可以参考markdown.md文档中的格式（标准md语法）
+若想要编辑md文档的内容，常见的加粗、列表、标题等语法可以参考markdown.md文档中的格式（标准md语法） 
