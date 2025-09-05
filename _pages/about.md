@@ -64,6 +64,6 @@ Patents
 Teaching
 =====
 * **Outstanding Teaching Assistant**, Harbin Institute of Technology (Shenzhen), 2023. Served as a Teaching Assistant (TA) for the core communication engineering course "Mobile Communications" for **​five consecutive years** (2020-2024). Responsibilities included participating in **​course experiment design​** and providing ​student guidance​. Became highly proficient in **all ​teaching procedures​**​.
-## [Mobile Communication](https://fancy0613.github.io/fanliu.github.io/teaching/2020-teaching-1)**
+## [Mobile Communication](https://fancy0613.github.io/fanliu.github.io/teaching/2020-teaching-1)
 Undergraduate course, Harbin Institute of Technology Shenzhen, Department of Electronic Engineering, 2020-2024.
 **Teaching Assistant with Prof. [Tingting Zhang](https://faculty.hitsz.edu.cn/zhangtingting)**
